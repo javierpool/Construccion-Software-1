@@ -17,13 +17,13 @@ Este repositorio tiene como objetivo organizar, gestionar y realizar el seguimie
 
 ### UNIDAD 01
 Contiene la estructura base y los documentos de la primera unidad, organizados de la siguiente manera:
-* **Semana 1:** Planteamiento de Idea de Proyecto[cite: 20].
-* **Semana 2:** Modelo Canvas y Respuesta a Preguntas[cite: 20].
-* **Semana 3:** Análisis y Diseño, Análisis de Factibilidad y Documento de Visión[cite: 20].
-* **Semana 4:** Elaboración Documento SRS[cite: 21].
-* **Semana 5:** Catálogo de Pruebas[cite: 21].
-* **Semana 6:** SRS - Mejorado[cite: 21].
-* **Semana 7:** Avance del SAD y Documentación del Proyecto[cite: 21].
+* **Semana 1:** Planteamiento de Idea de Proyecto.
+* **Semana 2:** Modelo Canvas y Respuesta a Preguntas.
+* **Semana 3:** Análisis y Diseño, Análisis de Factibilidad y Documento de Visión.
+* **Semana 4:** Elaboración Documento SRS.
+* **Semana 5:** Catálogo de Pruebas.
+* **Semana 6:** SRS - Mejorado.
+* **Semana 7:** Avance del SAD y Documentación del Proyecto.
 
 ### UNIDAD 02
 Espacio reservado para las actividades, documentos técnicos, laboratorios y evidencias que se desarrollarán progresivamente durante la segunda unidad.
